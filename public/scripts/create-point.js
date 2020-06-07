@@ -32,7 +32,7 @@ function getCities(event) {
   .then(response => response.json())
   .then(cities => {
     for(city of cities) {
-      citiesSelect.innerHTML += `<option value="${city.id}">${city.nome}</option>`
+      citiesSelect.innerHTML += `<option value="${city.nome}">${city.nome}</option>`
     }
 
     citiesSelect.disabled = false;
@@ -54,7 +54,7 @@ for (const item of itemsToCollect) {
   item.addEventListener("click", handleSelectedItem);
 }
 
-//
+
 function handleSelectedItem(event) {
   const itemLi = event.target
 
