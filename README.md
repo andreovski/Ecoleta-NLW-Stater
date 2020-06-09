@@ -11,7 +11,7 @@ Marketplace para coletas de resíduos
 </p>
 
 <h2>🛸 Sobre a aplicação </h2>
-<blockquote>Projeto foi inteiramente produzido durante o evento #NextLevelWeek da RocketSeat.</blockquote>
+<blockquote>Projeto foi inteiramente produzido durante o evento #NextLevelWeek da Rocketseat.</blockquote>
 
 <p align="justify">O <b>Ecoleta</b> tem como objetivo apresentar as pessoas novas formas de encontrar lugares
 onde coletam resíduos que não podem ser descartados em lixos
